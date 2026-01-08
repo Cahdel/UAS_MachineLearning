@@ -1,6 +1,6 @@
 # 🚗 Sistem Deteksi Kecelakaan
 
-Aplikasi web untuk mendeteksi kecelakaan lalu lintas menggunakan model YOLO v11n dengan antarmuka interaktif berbasis Streamlit.
+Aplikasi web untuk mendeteksi kecelakaan lalu lintas menggunakan model YOLO v12n dengan antarmuka interaktif berbasis Streamlit.
 
 ## ✨ Fitur Utama
 
@@ -71,7 +71,7 @@ DETEKSI KECELAKAAN/
 ## 🛠️ Teknologi
 
 - **Streamlit**: Framework web app
-- **YOLO v11n**: Model deteksi objek
+- **YOLO v12n**: Model deteksi objek
 - **OpenCV**: Pemrosesan video/gambar
 - **PyTorch**: Deep learning framework
 
